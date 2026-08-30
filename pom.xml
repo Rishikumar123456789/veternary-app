@@ -103,6 +103,13 @@
 			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/rishikumar123456789/jwt-library</url>
+		</repository>
+	</repositories>
 
 	<build>
 		<plugins>
